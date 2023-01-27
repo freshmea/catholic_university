@@ -26,3 +26,14 @@
 * sudo apt-get install ros-foxy-realsense2-camera
 * 설치 후 realsense 카메라 실행 -> 토픽 정상적으로 발행 확인. 하지만 이미지를 받는 것은 느림.
 * pinkwink.kr/1277 post 참고
+
+- - -
+## 2023_1_27
+- - -
+
+* 어제와 같은 세팅으로 랜선을 연결해서 실행
+  ![이미지 토픽](./images/Screenshot%20from%202023-01-27%2009-13-45.png "스크린샷")
+
+  ![뎁스 토픽](./images/Screenshot%20from%202023-01-27%2009-14-23.png "스크린샷")
+
+  * 초당 프레임 6~7 수준 으로 작동.
